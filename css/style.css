@@ -57,6 +57,10 @@ cite {
 .pricing {
 	padding-bottom: 80px;
 }
+.seo_link_text{
+    color:#333;
+    text-decoration:underline;
+}
 
 .plan {
 	border: 1px solid #dedede;
