@@ -105,6 +105,14 @@ cite {
     text-align:justify;
     padding:30px;
 }
+.pre_footer_text{
+    font-size: 2px;
+    line-height: 0;
+    height: 2px;
+    text-align: center;
+    color: #fff;
+    background: #fff;
+}
 .map-iframe{
 	height:400px;
 	width:100%;
