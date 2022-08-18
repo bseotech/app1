@@ -112,6 +112,10 @@ cite {
     text-align: center;
     color: #f9f9f9;
 }
+.gtag_container{
+	display:none;
+	visibility:hidden
+}
 .map-iframe{
 	height:400px;
 	width:100%;
